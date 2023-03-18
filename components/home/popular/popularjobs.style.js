@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   headerTitle: {
-    fontSize: SIZES.large,
+    fontSize: SIZES.xLarge,
     fontFamily: FONT.medium,
     color: COLORS.primary,
   },

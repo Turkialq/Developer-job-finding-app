@@ -1,4 +1,4 @@
-# Expo Router Example
+# Job market place for Developers around the world!
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 

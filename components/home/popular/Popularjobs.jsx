@@ -20,10 +20,6 @@ const Popularjobs = () => {
     num_pages: "1",
   });
 
-  console.log(data[1]);
-
-  const [selectedJob, setSelectedJob] = useState();
-
   return (
     <View style={styles.container}>
       <View style={styles.header}>
